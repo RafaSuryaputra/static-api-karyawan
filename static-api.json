@@ -1,0 +1,19 @@
+[
+    {
+        "nama": "Raka",
+        "data_diri": "32 Tahun",
+        "imageId": "Raka"
+    },
+    
+    {
+        "nama": "Engkus",
+        "data_diri": "32 Tahun",
+        "imageId": "Engkus"
+    },
+    
+    {
+        "nama": "Cecep",
+        "data_diri": "32 Tahun",
+        "imageId": "Cecep"
+    }
+]
